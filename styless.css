@@ -50,9 +50,9 @@ padding:40px;
 }
 .imgBox{
     position: relative;
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
+    /* width: 200px; */
+    /* height: 200px; */
+    border-radius: 25%;
     overflow: hidden;
     margin: auto;
 }
